@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Raj2003-bubt/Raj2003-bubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science & Engineering undergraduate at BUBT**, interested in building practical software and studying **cybersecurity, trustworthy AI, and applied machine learning**.
 
-Here are some ideas to get you started:
+I enjoy working on projects that connect clean engineering, experimentation, and real-world use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech and tools I work with
+
+`Python` · `Java` · `C++` · `JavaScript` · `Git/GitHub` · Desktop UI · Web Development · Applied Security Research
+
+### 📌 Team projects
+
+- 🎙️ **[Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)** — Java/JavaFX desktop audio effects. My documented team role: **testing and documentation**.
+- 🛡️ **[PhishGuard — Phishing Website Analyzer](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector)** — Python desktop application using heuristic URL and webpage checks. **Team project**; see repository attribution and limitations.
+
+### 🔎 Current interests
+
+- Detecting and evaluating prompt-injection attacks
+- Reproducible machine-learning experiments and robust evaluation
+- Practical cybersecurity tools and software engineering
+
+### 📬 Connect
+
+- [GitHub profile](https://github.com/Raj2003-bubt)
+
+> More projects, validated research code, and documentation will be added as they are ready to share. Public code and research materials are shared only when publication and team permissions allow.
+
+
+### Attribution
+Vortex and PhishGuard are team projects. The project repositories retain their fork relationship to the original upstream repositories; the README files describe limitations and contributors.
+
