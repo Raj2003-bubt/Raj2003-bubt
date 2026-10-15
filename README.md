@@ -8,10 +8,10 @@ I enjoy working on projects that connect clean engineering, experimentation, and
 
 `Python` · `Java` · `C++` · `JavaScript` · `Git/GitHub` · Desktop UI · Web Development · Applied Security Research
 
-### 📌 Team projects
+### 📌Featured Projects
 
-- 🎙️ **[Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)** — Java/JavaFX desktop audio effects. My documented team role: **testing and documentation**.
-- 🛡️ **[PhishGuard — Phishing Website Analyzer](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector)** — Python desktop application using heuristic URL and webpage checks. **Team project**; see repository attribution and limitations.
+-🎙️ **[Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)** — An academic team project built with Java, JavaFX, and Digital Signal Processing (DSP), featuring real-time voice effects and microphone processing.
+🛡️ **[PhishGuard — Phishing Website Analyzer](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector)** — An independently developed Python cybersecurity desktop application for identifying suspicious websites using rule-based security analysis.
 
 ### 🔎 Current interests
 
@@ -27,5 +27,4 @@ I enjoy working on projects that connect clean engineering, experimentation, and
 
 
 ### Attribution
-Vortex and PhishGuard are team projects. The project repositories retain their fork relationship to the original upstream repositories; the README files describe limitations and contributors.
-
+Vortex is an academic team project. PhishGuard is my independently developed personal project. Both repositories retain their original upstream links.
