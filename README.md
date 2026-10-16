@@ -1,30 +1,41 @@
 # Hi there! 👋
 
-I'm a **Computer Science & Engineering undergraduate at BUBT**, interested in building practical software and studying **cybersecurity, trustworthy AI, and applied machine learning**.
+I'm a **Computer Science & Engineering undergraduate at Bangladesh University of Business and Technology (BUBT)**, interested in practical software engineering, cybersecurity, and trustworthy AI.
 
-I enjoy working on projects that connect clean engineering, experimentation, and real-world use.
+I enjoy building desktop applications, learning new technologies, and improving projects through testing and documentation.
 
-### 🛠️ Tech and tools I work with
+## 🛠️ Technologies & Interests
 
-`Python` · `Java` · `C++` · `JavaScript` · `Git/GitHub` · Desktop UI · Web Development · Applied Security Research
+**Languages:** Python · Java · C++ · JavaScript  
+**Development:** JavaFX · CustomTkinter · Maven · Git/GitHub  
+**Areas:** Desktop Applications · Cybersecurity · Software Testing · Applied Machine Learning
 
-### 📌Featured Projects
+## 🚀 Featured Projects
 
--🎙️ **[Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)** — An academic team project built with Java, JavaFX, and Digital Signal Processing (DSP), featuring real-time voice effects and microphone processing.
-🛡️ **[PhishGuard — Phishing Website Analyzer](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector)** — An independently developed Python cybersecurity desktop application for identifying suspicious websites using rule-based security analysis.
+### 🛡️ [PhishGuard — Phishing Website Analyzer](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector)
 
-### 🔎 Current interests
+**Personal project · Sole Developer**
 
-- Detecting and evaluating prompt-injection attacks
-- Reproducible machine-learning experiments and robust evaluation
-- Practical cybersecurity tools and software engineering
+A Python desktop application that examines URLs and webpage signals using rule-based security checks. It presents explainable phishing-risk indicators, including domain, DNS, and TLS information. This is an educational heuristic tool, not a validated AI detector.
 
-### 📬 Connect
+[![PhishGuard security checks](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector/actions/workflows/python-tests.yml)
 
-- [GitHub profile](https://github.com/Raj2003-bubt)
+### 🎙️ [Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)
 
-> More projects, validated research code, and documentation will be added as they are ready to share. Public code and research materials are shared only when publication and team permissions allow.
+**Academic team project**
 
+A Java/JavaFX application exploring real-time microphone processing and ten digital-signal-processing voice effects. The repository includes architecture documentation, team attribution, a Maven build, and automated DSP smoke tests.
 
-### Attribution
-Vortex is an academic team project. PhishGuard is my independently developed personal project. Both repositories retain their original upstream links.
+[![Vortex Java build](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer/actions/workflows/java-build.yml/badge.svg)](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer/actions/workflows/java-build.yml)
+
+## 🔬 Research Interests
+
+- Prompt-injection detection and robustness under source shift
+- Trustworthy machine learning, calibration, and uncertainty
+- Reproducible cybersecurity experiments
+
+## 📫 Connect
+
+- [GitHub](https://github.com/Raj2003-bubt)
+
+_More projects, screenshots, and research materials will be added as they are ready for public release._
