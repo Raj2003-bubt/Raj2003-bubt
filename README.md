@@ -1,41 +1,47 @@
-# Hi there! 👋
+# Fahim Ali Raj
 
-I'm a **Computer Science & Engineering undergraduate at Bangladesh University of Business and Technology (BUBT)**, interested in practical software engineering, cybersecurity, and trustworthy AI.
+**Computer Science & Engineering undergraduate at BUBT · Aspiring software developer**
 
-I enjoy building desktop applications, learning new technologies, and improving projects through testing and documentation.
+I'm studying Computer Science and Engineering at Bangladesh University of Business and Technology. My interests include software engineering, cybersecurity, artificial intelligence, and applied research. I focus on practical projects with clear documentation, reproducible checks, and honest technical boundaries.
 
-## 🛠️ Technologies & Interests
+## Featured projects
 
-**Languages:** Python · Java · C++ · JavaScript  
-**Development:** JavaFX · CustomTkinter · Maven · Git/GitHub  
-**Areas:** Desktop Applications · Cybersecurity · Software Testing · Applied Machine Learning
+### [TrajectIQ — Space Mission Design Game](https://github.com/Raj2003-bubt/TrajectIQ)
 
-## 🚀 Featured Projects
+An educational mission-design project developed in the NASA Space Apps Challenge 2026 context. Players configure spacecraft subsystems, examine constraints, operate Moon/Mars missions, and revise designs using the debrief. The mission assistant is deterministic and offline.
 
-### 🛡️ [PhishGuard — Phishing Website Analyzer](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector)
+**JavaScript · HTML/CSS · WebGL/SVG · Node.js tests**
 
-**Personal project · Sole Developer**
+[Existing live demo](https://trajectiq-omega.vercel.app/) — maintained separately from this portfolio repository.
 
-A Python desktop application that examines URLs and webpage signals using rule-based security checks. It presents explainable phishing-risk indicators, including domain, DNS, and TLS information. This is an educational heuristic tool, not a validated AI detector.
+[![TrajectIQ build and regression tests](https://github.com/Raj2003-bubt/TrajectIQ/actions/workflows/ci.yml/badge.svg)](https://github.com/Raj2003-bubt/TrajectIQ/actions/workflows/ci.yml)
 
-[![PhishGuard security checks](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector/actions/workflows/python-tests.yml)
+### [Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)
 
-### 🎙️ [Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)
+An academic desktop application that captures microphone audio and applies ten DSP voice presets. It includes device selection, interactive controls, waveform monitoring, and synthetic audio checks.
 
-**Academic team project**
+**Java · JavaFX · Java Sound API · Maven**
 
-A Java/JavaFX application exploring real-time microphone processing and ten digital-signal-processing voice effects. The repository includes architecture documentation, team attribution, a Maven build, and automated DSP smoke tests.
+[![Vortex Java build and DSP smoke test](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer/actions/workflows/java-build.yml/badge.svg)](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer/actions/workflows/java-build.yml)
 
-[![Vortex Java build](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer/actions/workflows/java-build.yml/badge.svg)](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer/actions/workflows/java-build.yml)
+### [PhishGuard — Heuristic Phishing Website Analyzer](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector)
 
-## 🔬 Research Interests
+A personal Python desktop project that explains URL, DNS, TLS, and webpage indicators through rule-based risk assessment. Heuristic scores are not validated detection probabilities or guarantees of website safety.
 
-- Prompt-injection detection and robustness under source shift
-- Trustworthy machine learning, calibration, and uncertainty
-- Reproducible cybersecurity experiments
+**Python · CustomTkinter · Requests · BeautifulSoup**
 
-## 📫 Connect
+[![PhishGuard Python security checks](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Raj2003-bubt/PhishGuard--Advanced-Phishing-Website-Detector/actions/workflows/python-tests.yml)
 
-- [GitHub](https://github.com/Raj2003-bubt)
+## Technologies explored through these projects
 
-_More projects, screenshots, and research materials will be added as they are ready for public release._
+| Area | Technologies and practices |
+|---|---|
+| Languages | Java, Python, JavaScript, HTML, CSS |
+| Desktop development | JavaFX, Java Sound, CustomTkinter |
+| Web and visualization | ES modules, WebGL, SVG, browser storage, offline caching |
+| Engineering workflow | Git/GitHub, Maven, Node.js tests, Python unittest, GitHub Actions |
+| Current interests | Cybersecurity, trustworthy AI, calibration/uncertainty, reproducible applied research |
+
+I'm interested in internships and opportunities to develop reliable, understandable software and strengthen my engineering foundations.
+
+[GitHub](https://github.com/Raj2003-bubt)
