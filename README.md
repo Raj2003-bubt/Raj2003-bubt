@@ -12,7 +12,7 @@ An educational mission-design project developed in the NASA Space Apps Challenge
 
 **JavaScript · HTML/CSS · WebGL/SVG · Node.js tests**
 
-[Existing live demo](https://trajectiq-omega.vercel.app/) — maintained separately from this portfolio repository.
+[Play the live game](https://trajectiq-raj2003.vercel.app/) — independently deployed from my portfolio repository.
 
 [![TrajectIQ build and regression tests](https://github.com/Raj2003-bubt/TrajectIQ/actions/workflows/ci.yml/badge.svg)](https://github.com/Raj2003-bubt/TrajectIQ/actions/workflows/ci.yml)
 
