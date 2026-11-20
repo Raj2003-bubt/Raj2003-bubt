@@ -8,7 +8,7 @@ I'm studying Computer Science and Engineering at Bangladesh University of Busine
 
 ### [TrajectIQ — Space Mission Design Game](https://github.com/Raj2003-bubt/TrajectIQ)
 
-An educational mission-design project developed in the NASA Space Apps Challenge 2026 context. Players configure spacecraft subsystems, examine constraints, operate Moon/Mars missions, and revise designs using the debrief. The mission assistant is deterministic and offline.
+A project by **Team Kemon Dilam Bondhura**, developed in the NASA Space Apps Challenge 2026 context. Players configure spacecraft subsystems, examine constraints, operate Moon/Mars missions, and revise designs using the debrief. The mission assistant is deterministic and offline.
 
 **JavaScript · HTML/CSS · WebGL/SVG · Node.js tests**
 
@@ -18,7 +18,7 @@ An educational mission-design project developed in the NASA Space Apps Challenge
 
 ### [Vortex — Real-Time Voice Changer](https://github.com/Raj2003-bubt/Vortex---Real-Time-Voice-Changer)
 
-An academic desktop application that captures microphone audio and applies ten DSP voice presets. It includes device selection, interactive controls, waveform monitoring, and synthetic audio checks.
+An academic team desktop application that captures microphone audio and applies ten DSP voice presets. It includes device selection, interactive controls, waveform monitoring, and synthetic audio checks.
 
 **Java · JavaFX · Java Sound API · Maven**
 
@@ -42,6 +42,6 @@ A personal Python desktop project that explains URL, DNS, TLS, and webpage indic
 | Engineering workflow | Git/GitHub, Maven, Node.js tests, Python unittest, GitHub Actions |
 | Current interests | Cybersecurity, trustworthy AI, calibration/uncertainty, reproducible applied research |
 
-I'm interested in internships and opportunities to develop reliable, understandable software and strengthen my engineering foundations.
+I'm interested in software engineering internships, AI/ML learning opportunities, research collaboration and technical competitions, and in opportunities to develop reliable, understandable software and strengthen my engineering foundations.
 
 [GitHub](https://github.com/Raj2003-bubt)
